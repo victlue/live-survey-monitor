@@ -1,0 +1,53 @@
+category,attribute,count
+Education,HS or Less,0.380490675
+Education,Some College,0.295317869
+Education,Bachelors,0.201386935
+Education,Graduate,0.122804521
+Education,Prefer not to say,0.002465483
+Gender,Women,0.509747974
+Gender,Men,0.490252026
+Race,Native and Other,0.039424062
+Race,Asian,0.060972352
+Race,Hispanic/Latino,0.168558457
+Race,Black or African American,0.118219785
+Race,White,0.612825344
+Age,65+,0.216284907
+Age,45 - 64,0.323075792
+Age,35 - 44,0.169235432
+Age,25 - 34,0.174442402
+Age,18 - 24,0.116961467
+Region,Midwest,0.2081328
+Region,Northeast,0.1738098
+Region,South,0.3809515
+Region,West,0.2371059
+Gender_Educ,Women Non-College,0.33782997
+Gender_Educ,Women College,0.171918004
+Gender_Educ,Men Non-College,0.337978574
+Gender_Educ,Men College,0.152273452
+Race_Educ,White Non-College,0.397062411
+Race_Educ,White College,0.215762933
+Race_Educ,Non-White Non-College,0.290591644
+Race_Educ,Non-White College,0.096583012
+Age_Educ,Non-College Under 45,0.310230921
+Age_Educ,Non-College 45+,0.365577623
+Age_Educ,College Under 45,0.15040838
+Age_Educ,College 45+,0.173783076
+region_metro,South Metro,0.331
+region_metro,South Non-Metro,0.054
+region_metro,Northeast Metro,0.163
+region_metro,Northeast Non-Metro,0.011
+region_metro,West Metro,0.217
+region_metro,West Non-Metro,0.02
+region_metro,Midwest Metro,0.161
+region_metro,Midwest Non-Metro,0.043
+Q2024BallotConsolidated,Kamala Harris,0.4008333
+Q2024BallotConsolidated,Donald Trump,0.4183333
+Q2024BallotConsolidated,Other,0.01416667
+Q2024BallotConsolidated,I did not vote/Not registered,0.16666666
+QPartyConsolidated,Republican,0.405
+QPartyConsolidated,Democratic,0.417
+QPartyConsolidated,Independent,0.18QOwnHomeConsolidated,Not Own,0.342
+QOwnHomeConsolidated,Own,0.658
+Gender_PostFreq,Men A few times a month or more,0.07
+Gender_PostFreq,Women A few times a month or more,0.07
+Gender_PostFreq,Less often / DK,0.86

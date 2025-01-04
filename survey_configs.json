@@ -1,0 +1,77 @@
+{
+  "survey_20241113_162234": {
+    "name": "Consumer Omnibus November 2024",
+    "description": "",
+    "created_at": "2024-11-13 16:22:34",
+    "last_updated": "2024-11-19 16:26:44",
+    "alchemer_link": "https://reporting.alchemer.com/reportsview/?key=332127-15584724-69c9657b0ebe4b42480930d7d8d56adc&realtime=true",
+    "survey_id": "8093172",
+    "files": {
+      "weights": "survey_data/survey_20241113_162234/weights_weights-adults.csv"
+    },
+    "weights_file": {
+      "name": "weights-adults.csv",
+      "path": "survey_data/survey_20241113_162234/weights_weights-adults.csv"
+    }
+  },
+  "survey_20241120_143319": {
+    "name": "OMAG November 2024",
+    "description": "",
+    "created_at": "2024-11-20 14:33:19",
+    "last_updated": "2024-11-25 17:09:17",
+    "alchemer_link": "https://reporting.alchemer.com/reportsview/?key=332127-15602417-a118b5de8fa42405d1f3cc247e492a46&realtime=true",
+    "survey_id": "8093690",
+    "files": {
+      "weights": "survey_data/survey_20241120_143319/weights_weights-national-LE.csv"
+    },
+    "weights_file": {
+      "name": "weights-national-LE.csv",
+      "path": "survey_data/survey_20241120_143319/weights_weights-national-LE.csv"
+    }
+  },
+  "survey_20241210_131659": {
+    "name": "December Omnibus 2024",
+    "description": "",
+    "created_at": "2024-12-10 13:16:59",
+    "last_updated": "2024-12-19 15:17:49",
+    "alchemer_link": "https://reporting.alchemer.com/reportsview/?key=332127-15651053-cb64cf3909c1a058280b4fca3035855f&realtime=true",
+    "survey_id": "8121740",
+    "files": {
+      "weights": "survey_data/survey_20241210_131659/weights_weights-national-LE.csv"
+    },
+    "weights_file": {
+      "name": "weights-national-LE.csv",
+      "path": "survey_data/survey_20241210_131659/weights_weights-national-LE.csv"
+    }
+  },
+  "survey_20241211_152720": {
+    "name": "PhRMA MAHA December 2024",
+    "description": "",
+    "created_at": "2024-12-11 15:27:20",
+    "last_updated": "2024-12-16 09:25:36",
+    "alchemer_link": "https://reporting.alchemer.com/reportsview/?key=332127-15657893-742c5aba4d0f17e4d38469c994d44dd8&realtime=true",
+    "survey_id": "8118729",
+    "files": {
+      "weights": "survey_data/survey_20241211_152720/weights_weights-national-LE.csv"
+    },
+    "weights_file": {
+      "name": "weights-national-LE.csv",
+      "path": "survey_data/survey_20241211_152720/weights_weights-national-LE.csv"
+    }
+  },
+  "survey_20241218_104336": {
+    "name": "Moms First Base Sample",
+    "description": "",
+    "created_at": "2024-12-18 10:43:36",
+    "last_updated": "2024-12-22 08:08:10",
+    "alchemer_link": "https://reporting.alchemer.com/reportsview/?key=332127-15667814-e2d787405fc23f791d735ba9a8eebe88&realtime=true",
+    "survey_id": "8127315",
+    "files": {
+      "weights": "survey_data/survey_20241218_104336/weights_weights-national-LE.csv"
+    },
+    "weights_file": {
+      "name": "weights-national-LE.csv",
+      "path": "survey_data/survey_20241218_104336/weights_weights-national-LE.csv"
+    }
+  }
+}

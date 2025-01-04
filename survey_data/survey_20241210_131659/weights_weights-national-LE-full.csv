@@ -1,0 +1,63 @@
+category,attribute,count
+QGender,Male,0.463716958135124
+QGender,Female,0.536283041864876
+Age,18 - 34,0.204630322366501
+Age,35 - 49,0.232099545555946
+Age,50 - 64,0.2619904255
+Age,65+,0.3012797066
+Gender X Age,Men Under 50,0.2028821428
+Gender X Age,Women Under 50,0.2338477251
+Gender X Age,Men 50+,0.2616662147
+Gender X Age,Women 50+,0.3016039174
+Region,South,0.385650747148872
+Region,West,0.229482603603858
+Region,Midwest,0.217646957177638
+Region,Northeast,0.167219692069632
+turnout_2024_bins_noreg,0 - 69.9,0.189173610953782
+turnout_2024_bins_noreg,69.9 - 89.6,0.188660351164446
+turnout_2024_bins_noreg,89.6 - 96.4,0.177954033526034
+turnout_2024_bins_noreg,96.4 - 98.3,0.17154551632328
+turnout_2024_bins_noreg,98.3 - 100,0.182121072581525
+turnout_2024_bins_noreg,Not Registered Before 2020,0.0905454154509343
+Race,White,0.70626223
+Race,Black or African American,0.11471414
+Race,Asian,0.044122
+Race,Hispanic/Latino,0.1104514
+Race,Native and Other,0.02445023
+Race_Educ,White College,0.30334084
+Race_Educ,White Non-College,0.40292139
+Race_Educ,Non-White College,0.10185511
+Race_Educ,Non-White Non-College,0.19188266
+Q2024BallotConsolidated,Donald Trump,0.459003
+Q2024BallotConsolidated,Kamala Harris,0.4425118
+Q2024BallotConsolidated,Others,0.016
+Q2024BallotConsolidated,Unsure,0.005
+Q2024BallotConsolidated,Didn't Vote,0.08382643
+general_2020,Did not vote,0.21433569
+general_2020,Voted,0.78566431
+general_2022,Did not vote,0.3434183
+general_2022,Voted,0.6565817
+primary_vote_count,0,0.46800526
+primary_vote_count,1,0.19370796
+primary_vote_count,2,0.12907669
+primary_vote_count,3,0.10066111
+primary_vote_count,4,0.10854898
+primary_voter,Non-Primary, 0.4925838
+primary_voter,Primary, 0.5074162
+Age_Educ,50+ Non-College,0.33503219
+Age_Educ,Under 50 Non-College,0.25977186
+Age_Educ,50+ College,0.22823262
+Age_Educ,Under 50 College,0.17696333
+Education,High school or less,0.29402615
+Education,Some college,0.3007779
+Education,Bachelor's degree,0.25243243
+Education,Graduate degree,0.15276351
+QPartyConsolidated,Republican,0.4703465
+QPartyConsolidated,Independent,0.06930693
+QPartyConsolidated,Democrat,0.4603465
+QPartyConsolidated,A member of another party,0.004
+QPartyConsolidated,Unsure,0.0076
+college_age,Under 65 Non-College,0.4135174
+college_age,65+ Non-College,0.18128672
+college_age,Under 65 College,0.30758
+college_age,65+ College,0.09761593

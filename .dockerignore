@@ -1,0 +1,13 @@
+# Git-related files and directories
+.git                # Git repository folder
+.gitignore         # Git ignore file
+
+# R-specific temporary files and directories
+.Rproj.user        # RStudio user-specific files
+.Rhistory          # R command history
+.RData             # Saved R workspace
+.Ruserdata         # User-specific R data
+*.Rproj            # RStudio project files
+
+# Log files
+*.log

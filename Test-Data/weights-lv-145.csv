@@ -1,0 +1,60 @@
+category,attribute,count
+QGender,Male,0.4709
+QGender,Female,0.5416
+Age,18 - 34,0.2094
+Age,35 - 49,0.2308
+Age,50 - 64,0.2721
+Age,65+,0.2855
+Gender X Age,Men Under 50,0.2073
+Gender X Age,Women Under 50,0.2384
+Gender X Age,Men 50+,0.2626
+Gender X Age,Women 50+,0.302
+Region,South,0.3775
+Region,West,0.2426
+Region,Midwest,0.2162
+Region,Northeast,0.1765
+turnout_2024_bins,0 - 70.4,0.2251
+turnout_2024_bins,70.4 - 90,0.1979
+turnout_2024_bins,90 - 96.1,0.2171
+turnout_2024_bins,96.1 - 98.1,0.1984
+turnout_2024_bins,98.1 - 100,0.1626
+Race,White,0.7036
+Race,Black or African American,0.1062
+Race,Asian,0.043
+Race,Hispanic/Latino,0.1091
+Race,Native and Other,0.038
+Race_Educ,White College,0.3035
+Race_Educ,White Non-College,0.4002
+Race_Educ,Non-White College,0.0976
+Race_Educ,Non-White Non-College,0.1988
+Q2020BallotConsolidated,Donald Trump,0.4484
+Q2020BallotConsolidated,Joe Biden,0.4904
+Q2020BallotConsolidated,Others,0.0172
+Q2020BallotConsolidated,Didn't Vote,0.039
+Q2020BallotConsolidated,Unsure,0.005
+general_2020,Did not vote,0.1525
+general_2020,Voted,0.8475
+primary_vote_count,0,0.4653
+primary_vote_count,1,0.1949
+primary_vote_count,2,0.1311
+primary_vote_count,3,0.1031
+primary_vote_count,4,0.1057
+Q2020Ballot_Gender,Donald Trump/Male,0.24124207
+Q2020Ballot_Gender,Donald Trump/Female,0.22655128
+Q2020Ballot_Gender,Joe Biden/Male,0.20140393
+Q2020Ballot_Gender,Joe Biden/Female,0.28255272
+Q2020Ballot_Gender,Other/Didn't vote/Unsure,0.06
+Age_Educ,50+ Non-College,0.3489
+Age_Educ,Under 50 Non-College,0.2501
+Age_Educ,50+ College,0.2336
+Age_Educ,Under 50 College,0.1674
+Education,High school or less,0.2985081093
+Education,Some college,0.3004645228
+Education,Bachelor's degree,0.2519445325
+Education,Graduate degree,0.1490828354
+Education,Prefer not to say,0.001
+QPartyConsolidated,Republican,0.4646
+QPartyConsolidated,Independent,0.0709
+QPartyConsolidated,Democrat,0.4646
+QPartyConsolidated,A member of another party,0.004
+QPartyConsolidated,Unsure,0.0076
