@@ -14,7 +14,7 @@ This is a full-stack interactive analytics dashboard for monitoring and analyzin
        and a final interactive section where users can output the current (weighted or unweighted) results to any question they want.
 
 ## Tech Stack
-R Shiny (containing HTML, CSS, JavaScript code), deployed with Docker and AWS.
+R Shiny, SQL, HTML, CSS, JavaScript, deployed with Docker and AWS.
 
 ## Screenshots
 
