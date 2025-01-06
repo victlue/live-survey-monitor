@@ -17,4 +17,8 @@ This is a full-stack interactive analytics dashboard for monitoring and analyzin
 R Shiny (containing HTML, CSS, JavaScript code), deployed with Docker and AWS.
 
 ## Screenshots
-![Gamepage View](./images/inprogress-game.png)
+#Homepage
+![Homepage View](./images/Homepage.png)
+
+#Dashboard Table Layout
+![Dashboard View](./images/DashboardLayout.png)
