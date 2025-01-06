@@ -1,12 +1,12 @@
 # Live Survey Monitor
 
-This is a full-stack interactive analytics dashboard for monitoring and analyzing live polling data in SPSS (sav format). 
+This is a full-stack interactive analytics dashboard for monitoring and analyzing live polling data in SPSS (sav) format. 
 
 ## Instructions and Features
 
 1. All live surveys currently in field are listed on the homepage.
 2. You can either click on an existing survey or create a new survey. This navigates you to the dashboard panel.
-3. If you created a new survey, you'll input the realtime data export link (or the raw file itself), a weights csv file, and the Alchemer survey number (to retrieve quota info).
+3. If you created a new survey, you'll input the realtime data export link (or the raw file itself), a weights csv file (formatted with three columns - "category", "attribute", and "count"), and the Alchemer survey number (to retrieve quota data from the Alchemer API).
 4. Click refresh data, and everything runs automatically from there.
      - The app retrieves the file from the realtime export, matches respondents to internal voter file database (NOT public),
        does cleaning+processing+aligns names with the weights csv, runs statistical weights (to align survey sample with population benchmarks),
