@@ -1,6 +1,6 @@
 # Live Survey Monitor
 
-This app provides full-stack interactive analytics dashboards for monitoring and analyzing live polling data in SPSS (sav) format. 
+This full-stack app provides interactive analytics dashboards for monitoring and analyzing live polling data in SPSS (sav) format. 
 
 ## Instructions and Features
 
